@@ -1,2 +1,10 @@
-# Cazador-Monstruos
-Repositorio de dedicado para el juego de Monstruos.
+<h1> Cazando monstruos</h1>
+
+Adonay González Gutiérrez
+
+<h2> Versiones</h2>
+
+
+
+
+^
